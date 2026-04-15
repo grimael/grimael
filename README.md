@@ -1,8 +1,3 @@
-<!-- BANNIÈRE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/grimael/grimael/main/banner.svg" alt="Bannière Michaël SIPTOUA GRIMA" width="100%"/>
-</p>
-
 <!-- PHOTO DE PROFIL RONDE — fonctionne sur GitHub -->
 <p align="center">
   <a href="https://grimael.netlify.app">
