@@ -1,7 +1,7 @@
 <!-- BANNIÈRE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/grimael/grimael/main/banner.svg" alt="Bannière Michaël  GRIMA" width="100%"/>
-</p>
+</p> 
 
 <!-- PHOTO DE PROFIL -->
 <p align="center">
