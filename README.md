@@ -1,7 +1,7 @@
 <!-- BANNIÈRE -->
 <!-- Remplace l'URL ci-dessous par ta bannière hébergée sur GitHub (dans le dépôt grimael/grimael/blob/main/banner.svg) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grimael/grimael/main/banner.svg" alt="Bannière Michaël SIPTOUA GRIMA" width="100%"/>
+  <img src="https://github.com/grimael/grimael/blob/main/profile.png" alt="Bannière Michaël SIPTOUA GRIMA" width="100%"/>
 </p>
 
 <!-- PHOTO DE PROFIL DESIGNÉE -->
