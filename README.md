@@ -1,18 +1,18 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grimael/grimael/main/banner.svg" alt="Bannière Michaël SIPTOUA GRIMA" width="100%"/>
+  <img src="https://raw.githubusercontent.com/grimael/grimael/main/banner.svg" alt="Bannière Michaël  GRIMA" width="100%"/>
 </p>
 
 <!-- PHOTO DE PROFIL -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/grimael/grimael/main/profile.png"
-       alt="Michaël SIPTOUA GRIMA"
+       alt="Michaël GRIMA"
        width="120"
        style="border-radius: 50%; border: 3px solid #2E86AB;"/>
 </p>
 
 <!-- NOM & TITRE -->
-<h1 align="center">Michaël SIPTOUA GRIMA</h1>
+<h1 align="center">Michaël  GRIMA</h1>
 <h3 align="center">Data Scientist & Engineer · BI · ETL Pipelines · Machine Learning · Web Dev</h3>
 
 <p align="center">
@@ -76,30 +76,6 @@ I'm a **Data Scientist & Engineer** graduated from [ENSEA](https://ensea.ed.ci/)
 ![CSPro](https://img.shields.io/badge/CSPro-grey?style=flat&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🏗️ Data Engineering & Analytics
-| Project | Description | Stack |
-|---|---|---| 
-| [ETL Pipeline & Data Warehouse — METFPA](https://github.com/grimael/etl-pipeline-metfpa) | End-to-end data architecture for national vocational training data centralization | Apache Hop · dbt · SQL · PostgreSQL |
-| [Automated Reporting Tool — ERSYS](https://github.com/grimael/automated-reporting-superset) | BI reporting system with 40% productivity gain | Apache Superset · SQL · ETL |
-| [Transport Sector Analysis — Togo](https://github.com/grimael/transport-analysis-togo) | Statistical modelling & interactive visualization | R · ggplot2 · Shiny |
-| [Corruption & Public Investment in Africa](https://github.com/grimael/corruption-investment-africa) | Econometric panel data analysis, Sub-Saharan Africa | R · plm · stargazer |
-| [Impact of the Ukraine War on Trade](https://github.com/grimael/ukraine-war-trade-impact) | Quantitative analysis of post-2022 trade disruptions | Python · pandas · matplotlib |
-
-### 🗺️ Machine Learning & AI
-| Project | Description | Stack |
-|---|---|---|
-| [Abidjan Route Recommender](https://github.com/grimael/abidjan-route-recommender) | ML-powered urban route optimization using mobility data | Python · scikit-learn · clustering |
-
-### 🌐 Web Development
-| Project | Description | Stack |
-|---|---|---|
-| [Personal Portfolio](https://grimael.netlify.app) | Data portfolio with project showcases and interactive demos | HTML · CSS · JavaScript · Tailwind |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -113,25 +89,6 @@ I'm a **Data Scientist & Engineer** graduated from [ENSEA](https://ensea.ed.ci/)
 
 ---
 
-## 🏢 Experience
-
-```text
-💼 SanlamAllianz Participations   Data & BI Analyst         Jan 2026 – Present
-📊 OSEP                           Statistician / Analyst    Oct 2025 – Jan 2026
-🏛️  METFPA / ERSYS                 Statistician / Analyst    May 2025 – Sep 2025
-```
-
----
-
-## 🎓 Education
-
-```text
-🎓 ENSEA Abidjan   Statistician-Analyst | Data Scientist   2022 – 2025
-   National School of Statistics and Applied Economics
-   Mention: Assez-Bien
-```
-
----
 
 ## 📫 Let's connect
 
