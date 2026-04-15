@@ -1,5 +1,4 @@
 <!-- NOM & TITRE -->
-<h1 align="center">Michaël  GRIMA</h1>
 <h3 align="center">Data Scientist & Engineer · BI · ETL Pipelines · Machine Learning · Web Dev</h3>
 
 <p align="center">
