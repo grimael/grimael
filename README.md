@@ -81,7 +81,7 @@ I'm a **Data Scientist & Engineer** graduated from [ENSEA](https://ensea.ed.ci/)
 
 ### 🏗️ Data Engineering & Analytics
 | Project | Description | Stack |
-|---|---|---|
+|---|---|---| 
 | [ETL Pipeline & Data Warehouse — METFPA](https://github.com/grimael/etl-pipeline-metfpa) | End-to-end data architecture for national vocational training data centralization | Apache Hop · dbt · SQL · PostgreSQL |
 | [Automated Reporting Tool — ERSYS](https://github.com/grimael/automated-reporting-superset) | BI reporting system with 40% productivity gain | Apache Superset · SQL · ETL |
 | [Transport Sector Analysis — Togo](https://github.com/grimael/transport-analysis-togo) | Statistical modelling & interactive visualization | R · ggplot2 · Shiny |
