@@ -6,7 +6,7 @@
 
 <!-- PHOTO DE PROFIL DESIGNÉE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grimael/grimael/main/profile.png"
+  <img src="https://github.com/grimael/grimael/blob/main/profile.png"
        alt="Michaël GRIMA"
        width="120"
        style="border-radius: 50%; border: 3px solid #2E86AB;"/>
