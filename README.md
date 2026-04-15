@@ -1,7 +1,7 @@
 <!-- PHOTO DE PROFIL RONDE — fonctionne sur GitHub -->
 <p align="center">
   <a href="https://grimael.netlify.app">
-    <img src="https://raw.githubusercontent.com/grimael/grimael/main/profile.png"
+    <img src="https://raw.githubusercontent.com/grimael/grimael/main/profile.jpeg"
          alt="Michaël SIPTOUA GRIMA"
          width="120"
          height="120"/>
