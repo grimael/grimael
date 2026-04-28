@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.grimael.dev">
-    <img src="https://img.shields.io/badge/Portfolio-grimael.netlify.app-1A3A5C?style=flat&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-grimael.dev-1A3A5C?style=flat&logo=netlify&logoColor=white"/>
   </a>
   <a href="mailto:grimamichael79@gmail.com">
     <img src="https://img.shields.io/badge/Email-grimamichael79@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -81,7 +81,7 @@ I'm a **Data Scientist & Engineer** graduated from [ENSEA](https://ensea.ed.ci/)
 
 <p align="center">
   <a href="https://www.grimael.dev">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-grimael.netlify.app-1A3A5C?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-grimael.dev-1A3A5C?style=for-the-badge"/>
   </a>
   &nbsp;
   <a href="mailto:grimamichael79@gmail.com">
