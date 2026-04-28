@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & Engineer · BI · ETL Pipelines · Machine Learning · Web Dev</h3>
 
 <p align="center">
-  <a href="https://grimael.netlify.app">
+  <a href="https://www.grimael.dev">
     <img src="https://img.shields.io/badge/Portfolio-grimael.netlify.app-1A3A5C?style=flat&logo=netlify&logoColor=white"/>
   </a>
   <a href="mailto:grimamichael79@gmail.com">
@@ -80,7 +80,7 @@ I'm a **Data Scientist & Engineer** graduated from [ENSEA](https://ensea.ed.ci/)
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://grimael.netlify.app">
+  <a href="https://www.grimael.dev">
     <img src="https://img.shields.io/badge/🌐 Portfolio-grimael.netlify.app-1A3A5C?style=for-the-badge"/>
   </a>
   &nbsp;
