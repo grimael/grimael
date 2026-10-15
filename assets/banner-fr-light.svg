@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">grimael / Statistique, Data Science et applications</title>
+  <desc id="desc">Des données aux décisions : un flux relie les sources, les modèles et une visualisation. Une animation introductive de moins de cinq secondes accompagne le schéma.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; letter-spacing: 0; }
+    .flow { stroke-dasharray: 10 110; animation: flow 4.4s linear both; }
+    .trace { stroke-dasharray: 390; stroke-dashoffset: 0; animation: trace 2.5s ease .3s both; }
+    .bar { transform-box: fill-box; transform-origin: center bottom; animation: grow 1.4s cubic-bezier(.2,.7,.2,1) both; }
+    .bar-b { animation-delay: .2s; } .bar-c { animation-delay: .4s; }
+    @keyframes flow { 0% { stroke-dashoffset: 0; opacity: 0; } 8% { opacity: 1; } 85% { opacity: 1; } 100% { stroke-dashoffset: -480; opacity: 0; } }
+    @keyframes trace { from { stroke-dashoffset: 390; } to { stroke-dashoffset: 0; } }
+    @keyframes grow { from { transform: scaleY(.15); } to { transform: scaleY(1); } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; opacity: 0; } .trace, .bar { animation: none; } }
+  </style>
+  <defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ccdde4" stroke-width=".6"/></pattern></defs>
+  <rect width="1200" height="430" rx="8" fill="#f3f8fa"/>
+  <rect x="620" y="24" width="556" height="360" fill="url(#grid)" opacity=".65"/>
+  <g transform="translate(48 44)"><rect x="0" y="16" width="7" height="12" rx="1" fill="#087d96"/><rect x="11" y="8" width="7" height="20" rx="1" fill="#17262e"/><rect x="22" y="0" width="7" height="28" rx="1" fill="#21835e"/></g>
+  <text x="91" y="70" fill="#17262e" font-size="32" font-weight="700">grimael<tspan fill="#087d96">.</tspan></text>
+  <text x="48" y="123" fill="#536973" font-size="12" font-weight="600">STATISTIQUE / DATA SCIENCE / APPLICATIONS</text>
+  <text x="45" y="204" fill="#17262e" font-size="65" font-weight="700">Des données.</text>
+  <text x="45" y="277" fill="#087d96" font-size="65" font-weight="700">Des décisions.</text>
+  <text x="48" y="324" fill="#536973" font-size="18">La méthode au service de l’impact.</text>
+  <path d="M48 366H552" stroke="#ccdde4"/>
+  <text x="48" y="395" fill="#536973" font-size="12">ABIDJAN, CÔTE D’IVOIRE</text>
+  <text x="552" y="395" fill="#087d96" font-size="12" text-anchor="end">grimael.dev</text>
+  <g fill="none" stroke="#ccdde4" stroke-width="2"><path d="M685 130H727Q745 130 745 148V195H792"/><path d="M685 207H792"/><path d="M685 284H727Q745 284 745 266V219H792"/><path d="M884 207H960"/></g>
+  <g fill="none" stroke="#087d96" stroke-width="2" class="flow"><path d="M685 130H727Q745 130 745 148V195H792"/><path d="M685 207H792"/><path d="M685 284H727Q745 284 745 266V219H792"/><path d="M884 207H960"/></g>
+  <g fill="#e7f0f3" stroke="#ccdde4"><rect x="633" y="106" width="52" height="48" rx="6"/><rect x="633" y="183" width="52" height="48" rx="6"/><rect x="633" y="260" width="52" height="48" rx="6"/><rect x="792" y="162" width="92" height="90" rx="8"/></g>
+  <g fill="none" stroke="#087d96" stroke-width="2"><path d="M648 121H670M648 130H665M648 139H670"/><ellipse cx="659" cy="199" rx="11" ry="4"/><path d="M648 199V214C648 219 670 219 670 214V199M648 206C648 211 670 211 670 206"/><path d="M650 275L643 284L650 293M668 275L675 284L668 293M662 273L656 295"/></g>
+  <g fill="#21835e" stroke="#21835e" stroke-width="1.5"><path d="M815 185L839 176L862 191L850 221L822 232L811 211Z" fill="none"/><path d="M815 185L850 221M839 176L822 232M862 191L811 211" fill="none"/><circle cx="815" cy="185" r="3"/><circle cx="839" cy="176" r="3"/><circle cx="862" cy="191" r="3"/><circle cx="850" cy="221" r="3"/><circle cx="822" cy="232" r="3"/><circle cx="811" cy="211" r="3"/></g>
+  <path d="M966 263H1128M966 263V132" stroke="#ccdde4" fill="none"/>
+  <g fill="#087d96"><rect class="bar" x="981" y="220" width="24" height="43" rx="2"/><rect class="bar bar-b" x="1024" y="190" width="24" height="73" rx="2"/><rect class="bar bar-c" x="1067" y="149" width="24" height="114" rx="2"/></g>
+  <path class="trace" d="M974 196L1006 180L1038 185L1079 130L1120 112" fill="none" stroke="#98721d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1120" cy="112" r="4" fill="#98721d"/>
+  <g fill="#536973" font-size="11" font-weight="600" text-anchor="middle"><text x="659" y="348">COLLECTER</text><text x="838" y="348">MODÉLISER</text><text x="1045" y="348">DÉCIDER</text></g>
+  <path d="M633 367H1128" stroke="#ccdde4"/>
+  <g fill="#21835e" font-size="12"><text x="633" y="395">Python</text><text x="714" y="395">R</text><text x="760" y="395">SQL</text></g>
+  <text x="1128" y="395" fill="#536973" text-anchor="end" font-size="12">DATA → MODELS → PRODUCTS</text>
+</svg>
