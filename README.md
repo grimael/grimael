@@ -19,7 +19,7 @@ Mon parcours couvre **l’assurance, le service public et la formation professio
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/grimael">LinkedIn</a>
   &nbsp; / &nbsp;
-  <a href="mailto:grimamichael79@gmail.com">Échanger par email</a>
+  <a href="mailto:grimael.s@outlook.com">Échanger par email</a>
 </p>
 
 ## Projets sélectionnés
@@ -109,6 +109,6 @@ Donner aux analyses une interface et des usages concrets.<br>
 ---
 
 **Une question data, un outil à construire ou une collaboration ?**<br>
-[Échangeons](mailto:grimamichael79@gmail.com) · [Mon parcours](https://www.grimael.dev/about/) · [LinkedIn](https://www.linkedin.com/in/grimael)
+[Échangeons](mailto:grimael.s@outlook.com) · [Mon parcours](https://www.grimael.dev/about/) · [LinkedIn](https://www.linkedin.com/in/grimael)
 
-<sub>Basé à Abidjan, Côte d’Ivoire. Statistique de formation, applications par conviction.</sub>
+
