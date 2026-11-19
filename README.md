@@ -14,7 +14,7 @@ Je suis **Michaël S. GRIMA**, statisticien formé à l’[ENSEA d’Abidjan](ht
 
 Mon parcours couvre **l’assurance, le service public et la formation professionnelle** en Côte d’Ivoire.
 
-**Recherche** — je candidate à une maîtrise en apprentissage automatique (Université de Montréal / Mila, automne 2027). Mon sujet : le traitement automatique des langues africaines peu dotées, à commencer par l’arabe tchadien.
+
 
 <p>
   <a href="https://www.grimael.dev/"><strong>Portfolio</strong></a>
